@@ -14,6 +14,9 @@ My personal Utility Toolbelt
 
 ### Utility
 
+### Toolbelt Modules
+- Make it modular. Somehow.
+
 #### Projects
 - Create vanilla project: ```toolbelt project create vanilla <project-name> <folder>```
 - Create C++ project: ```toolbelt project create c++ <project-name> <folder>```
