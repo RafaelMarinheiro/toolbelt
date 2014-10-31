@@ -32,7 +32,7 @@ My personal Utility Toolbelt
 - Todo list: ```toolbelt todo```
 - Todo Topic: ```toolbelt todo <topic>```
 - Local todo list: ```toobelt todo --local```
-- Project todo list ```toolbelt todo --project```
+- Project todo list ```toolbelt project todo```
 
 #### 
 
